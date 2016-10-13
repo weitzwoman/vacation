@@ -1,3 +1,6 @@
-jumbotron {
-  background-color: blue
+.jumbotron {
+  background-color: tomato;
+}
+.jumbotron h1 {
+  color: blue;
 }
